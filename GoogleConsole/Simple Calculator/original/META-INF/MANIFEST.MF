@@ -1,0 +1,36 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Serakont)
+
+Name: AndroidManifest.xml
+SHA1-Digest: evqKXo3coBafa6sAF9/ir7RvsFk=
+
+Name: resources.arsc
+SHA1-Digest: Ra1VOCrcBCNohX6Yl3Pw23jVIw0=
+
+Name: classes.dex
+SHA1-Digest: opLGc8KFv+jObXmpxfzk7EJGwII=
+
+Name: res/drawable/icon.png
+SHA1-Digest: B2TMCdtM8PEBu+1ctSQZ/2SRjc0=
+
+Name: data.txt
+SHA1-Digest: bvYP3xGB/JiZDz3C4a9aa+E/q20=
+
+Name: assets/css/styles.css
+SHA1-Digest: bStEYSKGdIuZM7fZKm3HNukLJ9w=
+
+Name: assets/index.html
+SHA1-Digest: N4pjeJU0IJEzVea3HhXyx/zG3+k=
+
+Name: assets/js/App.js
+SHA1-Digest: urgG2IWvLFbM8YumkqPJtVVlYtg=
+
+Name: assets/js/index.js
+SHA1-Digest: /vOEUxvCR2C8yePpT9L+owTXH6I=
+
+Name: assets/libs/android.js
+SHA1-Digest: y+2SUjPgUjgA/uNGYTYDRRyyj7Q=
+
+Name: assets/libs/vanilla-tilt.js
+SHA1-Digest: 0PTNPwdnnFqgqOyWAER5bFLwLMI=
+

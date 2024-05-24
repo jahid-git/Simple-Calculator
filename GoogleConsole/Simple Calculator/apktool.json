@@ -1,0 +1,25 @@
+{
+  "apkFileName": "Simple Calculator.apk",
+  "VersionInfo": {
+    "versionName": "1.0",
+    "versionCode": "1"
+  },
+  "UsesFramework": {
+    "ids": [1],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "doNotCompress": ["png"],
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sparseResources": true,
+  "version": "1.0.0",
+  "sharedLibrary": false,
+  "sdkInfo": {
+    "minSdkVersion": "19",
+    "targetSdkVersion": "34"
+  }
+}

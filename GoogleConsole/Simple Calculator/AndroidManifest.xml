@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    package="com.codex.simple_calculator"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission
+        android:name="android.permission.INTERNET" />
+    <application
+        android:theme="@android:style/Theme.Material.Light.NoActionBar"
+        android:label="Simple Calculator"
+        android:icon="@drawable/icon"
+        android:allowBackup="true"
+        android:resizeableActivity="true">
+        <activity
+            android:name="com.my_app.MainActivity"
+            android:screenOrientation="portrait"
+            android:exported="false">
+            <intent-filter>
+                <action
+                    android:name="android.intent.action.MAIN" />
+                <category
+                    android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+	</application>
+</manifest>

@@ -1,0 +1,38 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: uK9L8+TzSJQXooFz7phdKIHoYIY=
+SHA1-Digest-Manifest: lYqWBXEv8UM5ZigbmOxs0zrJ+tM=
+Created-By: 1.8.0_20 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA1-Digest: AtrrWp1Y1InTOf7Aj9usEIK6SnE=
+
+Name: resources.arsc
+SHA1-Digest: ki+9VbI24GN2tusEbqwc4iUrt78=
+
+Name: classes.dex
+SHA1-Digest: E4+o1Wh4XQdlNcbZglrgFFKYWZg=
+
+Name: res/drawable/icon.png
+SHA1-Digest: 1sM3gwKdUwz7H3MMNqnSPiO51MY=
+
+Name: data.txt
+SHA1-Digest: Gaavtl/zRlgyUY1Febc4L+1BgEw=
+
+Name: assets/css/styles.css
+SHA1-Digest: wSg8ufHseFnmrR+KGQ9hS2G6G1g=
+
+Name: assets/index.html
+SHA1-Digest: RkhCxplqtlVFgXoTK0VQhnUk7SY=
+
+Name: assets/js/App.js
+SHA1-Digest: m1ocHy+6l+yGXDI8j8d7PJY1gMU=
+
+Name: assets/js/index.js
+SHA1-Digest: OJJQ0tzIQfFzz5W33cHoJBojneM=
+
+Name: assets/libs/android.js
+SHA1-Digest: DtlEyCWzKlZwEeOeZk3rnDiXMAk=
+
+Name: assets/libs/vanilla-tilt.js
+SHA1-Digest: OADa+XtgoIInk8VUA6dGCemCY88=
+

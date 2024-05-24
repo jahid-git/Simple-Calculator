@@ -1,0 +1,9 @@
+Simple Calculator
+com.codex.simple_calculator
+1
+1
+16974401
+147
+
+
+//AUTO-GENERATED FILE.  DO NOT MODIFY.
